@@ -2,7 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-@import './lib/preflight.css';
 
 @import './base.css';
 
